@@ -1,4 +1,4 @@
-package neal.ui.adapterview.core;
+package neal.adapterview.core;
 
 import android.content.Context;
 import android.support.v4.view.MotionEventCompat;
@@ -16,10 +16,11 @@ import android.widget.LinearLayout;
 import android.widget.ListView;
 
 
-import neal.ui.adapterview.core.FooterLayout;
-import neal.ui.adapterview.core.header.FlipLoadingLayout;
+import neal.adapterview.core.FooterLayout;
+import neal.adapterview.core.header.FlipLoadingLayout;
+import neal.pulltorefresh.R;
 import neal.utils.VersionUtil;
-import pku.isharebook.R;
+
 
 /**
  * Created by neal on 2014/12/21.

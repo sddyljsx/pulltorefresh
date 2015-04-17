@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  *******************************************************************************/
-package neal.ui.adapterview.core.header;
+package neal.adapterview.core.header;
 
 import android.content.Context;
 import android.graphics.drawable.Drawable;
@@ -21,7 +21,7 @@ import android.view.View;
 import android.view.animation.Animation;
 import android.view.animation.RotateAnimation;
 
-import pku.isharebook.R;
+import neal.pulltorefresh.R;
 
 
 public class FlipLoadingLayout extends LoadingLayout {

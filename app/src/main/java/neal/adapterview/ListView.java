@@ -1,12 +1,12 @@
-package neal.ui.adapterview;
+package neal.adapterview;
 
 import android.content.Context;
 import android.util.AttributeSet;
 import android.view.View;
 
-import neal.ui.adapterview.core.PullToRefreshLayout;
+import neal.adapterview.core.PullToRefreshLayout;
 import neal.utils.VersionUtil;
-import pku.isharebook.R;
+
 
 /**
  * Created by neal on 2014/12/23.

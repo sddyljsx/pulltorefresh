@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  *******************************************************************************/
-package neal.ui.adapterview.core.header;
+package neal.adapterview.core.header;
 
 import android.content.Context;
 import android.graphics.drawable.Drawable;
@@ -28,7 +28,7 @@ import android.widget.LinearLayout;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
-import pku.isharebook.R;
+import neal.pulltorefresh.R;
 
 
 //下拉刷新基类

@@ -1,11 +1,12 @@
-package neal.ui.adapterview.core;
+package neal.adapterview.core;
 
 import android.content.Context;
 import android.util.AttributeSet;
 import android.view.LayoutInflater;
 import android.widget.FrameLayout;
 
-import pku.isharebook.R;
+import neal.pulltorefresh.R;
+
 
 /**
  * Created by neal on 2014/12/23.

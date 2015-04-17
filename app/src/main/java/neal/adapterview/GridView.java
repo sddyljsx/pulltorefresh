@@ -1,9 +1,10 @@
-package neal.ui.adapterview;
+package neal.adapterview;
 
 import android.content.Context;
 import android.util.AttributeSet;
 
-import neal.ui.adapterview.core.PullToRefreshLayout;
+import neal.adapterview.core.PullToRefreshLayout;
+
 
 /**
  * Created by neal on 2014/12/23.
